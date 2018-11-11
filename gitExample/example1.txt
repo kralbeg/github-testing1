@@ -1,0 +1,2 @@
+This is a example of a git repository.
+Translated topla method to add method.
